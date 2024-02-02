@@ -4,7 +4,7 @@ Este proyecto utiliza datos proporcionados por la Secretaría de Energía de Arg
 Los volúmenes se encuentran expresados en metros cúbicos (m3) y los precios en pesos argentinos.
 
 ## Tabla de Contenidos
-- [Obtención de Datos](#Obtención de Datos)
+- [Obtención de Datos](#Obtencion)
 - [Uso](#Uso)
 - [Requisitos](#Requisitos)
 - [Contribuciones](#Contribuciones)
